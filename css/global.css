@@ -48,3 +48,8 @@ bottom: 50px;
 content: "";
 background: url(/img/up.svg) no-repeat center;
 }
+
+.gotop:hover{
+  background: url(/img/uphover.svg) no-repeat center;
+  transition: 0.3s;
+}
