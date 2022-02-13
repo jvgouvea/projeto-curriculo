@@ -1,0 +1,87 @@
+.main{
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 100px;
+  align-items: center;
+}
+
+.main h1{
+  font-size: 4.5rem;
+  line-height: 1.125;
+  margin-bottom: 30px;
+  position: relative;
+}
+
+.main h1::before{
+  content:"";
+  display: block;
+  width: 130px;
+  height: 100px;
+  background: url(/img/detalhe.svg) no-repeat center;
+  position: absolute;
+  z-index: -1;
+  top: -15px;
+  left: -20px;
+}
+
+.main p{
+  color: #525252;
+  font-size: 1.5rem;
+}
+
+@media (max-width: 1000px){
+  .main h1{
+    font-size: 3rem;
+  }
+
+  .main h1::before{
+    top: -30px;
+  }
+}
+
+@media (max-width: 800px){
+  .main{
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+  }
+  
+  .main h1::before{
+    width: 30px;
+    height: 10px;
+    left: 0px;
+    top: -15px;
+  }
+
+  .main h1{
+    font-size: 2.5rem;
+  }
+
+  .main p{
+    font-size: 1.25rem;
+  }
+}
+
+@media (max-width: 400px){
+  .main img{
+    display: none;
+  }
+
+  .main{
+    grid-template-columns: 1fr;
+  }
+
+}
+
+@media (max-width: 500px){
+  .main img{
+    display: none;
+  }
+}
+@media (max-width: 700px){
+.main p{
+  font-size: 1rem;
+}
+}
