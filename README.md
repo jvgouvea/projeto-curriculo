@@ -1,6 +1,6 @@
 # 📄 Currículo
 
-Projeto feito com o objetivo de colocar em prática meus conhecimentos em HTML e CSS, principalmente: position, grid layout e flexbox. Além disso,
+Projeto feito com o objetivo de colocar em prática meus estudos em HTML e CSS, principalmente: position, grid layout, flexbox e responsividade. Além disso,
 também desenvolvi o projeto no Figma.
 
 ## 📌Acesso
