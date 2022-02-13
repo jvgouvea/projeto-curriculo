@@ -5,7 +5,7 @@ também desenvolvi o projeto no Figma.
 
 ## 📌Acesso
 
-* [projeto-curriculo.vercel.app](projeto-curriculo.vercel.app) - Link para acesso ao site
+* [Link para acesso ao site](https://projeto-curriculo.vercel.app/) 
 
 ## 🛠️ Construído com
 
