@@ -14,9 +14,9 @@ também desenvolvi o projeto no Figma.
 * VS Code
 * Figma
 
-## 📋 Pré-requisitos
-* Acesso à internet
-* Navegador
+## 📋 Imagens
+
+![t](https://user-images.githubusercontent.com/86687541/153797146-7c5b682c-8e2c-4a15-a69b-1b028264884b.png)
 
 ## ✒️ Autores
 
