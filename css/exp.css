@@ -24,13 +24,29 @@
 
 .projeto{
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 2fr 1fr 1fr;
   padding: 20px;
   background-color: #f5f5f5;
   margin-bottom: 20px;
   border-radius: 4px;
   position: relative;
   gap: 10px 20px;
+}
+
+.projeto a{
+  display: inline-block;
+}
+
+.projeto-links img{
+  max-width: 100%;
+  display: block;
+}
+
+.projeto-links{
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  align-content: center;
 }
 
 .projeto::before{
@@ -54,6 +70,7 @@
   font-size: 0.875rem;
   line-height: 1.4;
   color: #525252;
+  grid-column: 1;
 }
 
 .projeto-tecnologias{
