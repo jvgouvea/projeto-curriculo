@@ -16,7 +16,7 @@ também desenvolvi o projeto no Figma.
 
 ## 📋 Imagens
 
-![t](https://user-images.githubusercontent.com/86687541/153797146-7c5b682c-8e2c-4a15-a69b-1b028264884b.png)
+![img-cv](https://user-images.githubusercontent.com/86687541/154574971-5cf401d7-994e-4db9-8952-771a4187879a.png)
 
 ## ✒️ Autores
 
