@@ -126,10 +126,14 @@
 
 @media (max-width: 600px){
   .projeto{
-    grid-template-columns: 2fr 1fr;
+    grid-template-columns: 1fr;
   }
 
-  .projeto-links{
+  .projeto-texto{
+    margin-bottom: 10px;
+  }
+
+  .experiencia span, .projeto-links{
     display: none;
   }
 
